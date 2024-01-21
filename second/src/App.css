@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.sider{
+  min-height: 800px;
+}
+.first{
+  display: flex;
+  margin: 0px;
+  
+  width: 100%;
+}
+.footer{
+  width: 100%;
+}
+.second{
+  display: flex;
+  flex-direction: column;
+  
+  width: 100%;
+  
+}
